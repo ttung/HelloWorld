@@ -5,7 +5,7 @@ Companies without Female Leaders are Fundamentally Flawed
 Sexism persists in the tech industry. Culture comes from the top, and the only way to stop sexism and prevent future #MeToo moments is to increase the number of women in leadership positions. Add a PR with your handle as a show of support and a pledge to not interview at or take a job working for companies that don’t have women in 50% of top leadership positions. This is not a call to quit your current job, but to ensure that your next job is at a more equitable company.
 
 ## Pledge
-  Make a PR as a show of support/solidarity. Feel free to tell your story or just [sign](#Signatories) with your github handle. 
+  Make a PR as a show of support/solidarity. Feel free to tell your story or just [sign](#signatories) with your github handle. 
   * To not interview with such companies
   * To not take a job working for such companies<sup>1</sup>
 
